@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "titulo": "Imagine",
+    "artista": "John Lennon"
+  },
+  {
+    "id": "2",
+    "titulo": "Bohemian Rhapsody",
+    "artista": "Queen"
+  },
+  {
+    "id": "3",
+    "titulo": "Hallelujah",
+    "artista": "Leonard Cohen"
+  },
+  {
+    "id": "4",
+    "titulo": "You'll never find another love like mine",
+    "artista": "Lou Rawls"
+  }
+]
